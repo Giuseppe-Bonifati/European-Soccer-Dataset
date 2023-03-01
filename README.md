@@ -6,9 +6,7 @@
 ## Introduction
 
 We will be working with the soccer database from kaggle.: https://www.kaggle.com/hugomathien/soccer. 
-
 It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016.
-
 In the file query.sql there are all the queries that I use to get information from the db.
 
 ### Prerequisites
@@ -26,15 +24,12 @@ In the file query.sql there are all the queries that I use to get information fr
 
 **European Soccer Database**
 
-Link to download sqlite db : https://www.kaggle.com/hugomathien/soccer
-
-Using DBeaver we can migrate from SQLite database to PostgreSQL database
+Link to download sqlite db : https://www.kaggle.com/hugomathien/soccer and using DBeaver we can migrate from SQLite database to PostgreSQL database
 
 
 ## Usage
 
 All the queries are in the file query.sql 
-
 We use SQL shell (psql) to connect to the database and run the queries 
 
 Type in psql the following command 
