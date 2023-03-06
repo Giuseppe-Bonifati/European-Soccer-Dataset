@@ -29,7 +29,8 @@ I use DBeaver also to convert the datatype of the column date in the table playe
 
 ## Usage
 
-All the queries are in the file query.sql 
+All the queries are in the file query.sql
+
 We use SQL shell (psql) to connect to the database and run the queries 
 
 Type in psql the following command 
@@ -58,6 +59,10 @@ Type in psql the following command
 #### Messi vs C.Ronalo overall ratings compared
 
 <img width="251" alt="image" src="https://user-images.githubusercontent.com/110894389/223209070-814aa780-0500-4feb-a306-33e940d03221.png">
+
+#### The player with the highst visual value
+
+<img width="186" alt="image" src="https://user-images.githubusercontent.com/110894389/223214086-4e92f04d-63e5-4ad1-8a8c-7e3d1931f41f.png">
 
 
 ## License
