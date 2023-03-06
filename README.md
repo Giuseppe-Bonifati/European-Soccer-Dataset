@@ -6,7 +6,7 @@
 ## Introduction
 
 We will be working with the soccer database from kaggle.: https://www.kaggle.com/hugomathien/soccer. 
-It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016 (Some players are not available in year 2016).
+It contains data for soccer matches, players, and teams from several European countries from 2007/2008 to 2015/2016 (Some players are not available in year 2016).
 In the file query.sql there are all the queries to get informations from the db.
 
 ### Prerequisites
@@ -39,6 +39,25 @@ Type in psql the following command
 
 ```
 ❗ Please not that also in Windows we need to use the slashes (/) instead of blackslashes 
+
+
+### Queries result
+
+#### Player with the most overall rating value from 2007/2008 to 2015/2016
+
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/110894389/223207036-36b92ca0-438f-43ca-8cce-14e3580d7373.png">
+
+#### To 10 players based on they overall rating in the year 2012
+
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/110894389/223207582-bcc31318-6d6b-4f6e-9c90-9646ee73087e.png">
+
+#### Messi overall rating history
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/110894389/223208302-b16e9ac2-a837-43de-8321-4a5ca145de1d.png">
+
+#### Messi vs C.Ronalo overall ratings compared
+
+<img width="251" alt="image" src="https://user-images.githubusercontent.com/110894389/223209070-814aa780-0500-4feb-a306-33e940d03221.png">
 
 
 ## License
