@@ -65,6 +65,11 @@ Type in psql the following command
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/110894389/223214086-4e92f04d-63e5-4ad1-8a8c-7e3d1931f41f.png">
 
 
+#### Teams with the best chance of creation passing
+
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/110894389/224751063-0bd28ae9-11dd-4e11-956a-2f42941dc9b4.png">
+
+
 ## License
 
 <img src="https://img.shields.io/badge/license-MIT-blue">
