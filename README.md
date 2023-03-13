@@ -71,7 +71,10 @@ Type in psql the following command
 
 #### Team with more total goal for each season
 
-<img width="313" alt="image" src="https://user-images.githubusercontent.com/110894389/224779839-0c1114d9-9ba9-4dd5-9dd0-736523d380d4.png">
+<img width="471" alt="image" src="https://user-images.githubusercontent.com/110894389/224780632-bb83e663-e036-4f23-8706-3aa5afafdebc.png">
+
+
+
 
 
 ## License
