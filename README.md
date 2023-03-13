@@ -69,13 +69,6 @@ Type in psql the following command
 
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/110894389/224751063-0bd28ae9-11dd-4e11-956a-2f42941dc9b4.png">
 
-#### Team with more total goal for each season
-
-<img width="471" alt="image" src="https://user-images.githubusercontent.com/110894389/224780632-bb83e663-e036-4f23-8706-3aa5afafdebc.png">
-
-#### Clubs with the higst goal in the saason 2015
-
-<img width="590" alt="image" src="https://user-images.githubusercontent.com/110894389/224784845-044bbc2f-a93a-4c49-a302-ab28679b0394.png">
 
 
 ## License
