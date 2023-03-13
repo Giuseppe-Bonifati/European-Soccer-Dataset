@@ -69,6 +69,10 @@ Type in psql the following command
 
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/110894389/224751063-0bd28ae9-11dd-4e11-956a-2f42941dc9b4.png">
 
+#### Team with more total goal for each season
+
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/110894389/224779839-0c1114d9-9ba9-4dd5-9dd0-736523d380d4.png">
+
 
 ## License
 
