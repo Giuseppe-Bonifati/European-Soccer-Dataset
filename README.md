@@ -25,7 +25,7 @@ In the file query.sql there are all the queries to get informations from the db.
 **European Soccer Database**
 
 Link to download sqlite db : https://www.kaggle.com/hugomathien/soccer and using DBeaver we can migrate from SQLite database to PostgreSQL database.
-I use DBeaver also to convert the datatype of the column date in the table player_attributes from text to timestamp.
+I use DBeaver also to convert the datatype of the column date in every table from text to timestamp.
 
 ## Usage
 
