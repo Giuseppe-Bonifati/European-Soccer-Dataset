@@ -73,8 +73,9 @@ Type in psql the following command
 
 <img width="471" alt="image" src="https://user-images.githubusercontent.com/110894389/224780632-bb83e663-e036-4f23-8706-3aa5afafdebc.png">
 
+#### Clubs with the higst goal in the saason 2015
 
-
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/110894389/224784845-044bbc2f-a93a-4c49-a302-ab28679b0394.png">
 
 
 ## License
