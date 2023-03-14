@@ -85,5 +85,5 @@ Type in psql the following command
 
 ## License
 
-<img src="https://img.shields.io/badge/license-MIT-blue">
+<a href=https://github.com/Giuseppe-Bonifati/Project/blob/main/LICENSE.md><img src="https://img.shields.io/badge/license-MIT-blue"></a>
 
