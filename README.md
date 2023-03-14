@@ -69,6 +69,9 @@ Type in psql the following command
 
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/110894389/224751063-0bd28ae9-11dd-4e11-956a-2f42941dc9b4.png">
 
+#### Teams for each leagues with more goals scored home in the season 2015/2016
+
+<img width="506" alt="image" src="https://user-images.githubusercontent.com/110894389/225005021-377ba2c4-702b-4e38-87d4-55ac9493000c.png">
 
 
 ## License
