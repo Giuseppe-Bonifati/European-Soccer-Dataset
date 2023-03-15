@@ -11,7 +11,7 @@ In the file query.sql there are all the queries to get informations from the db.
 
 ### Prerequisites
 
-<a href="https://dbeaver.io/"><img src="https://img.shields.io/badge/-DBeaver-yellow"></a>   <a href="https://www.postgresql.org/download/"><img src="https://img.shields.io/badge/-PostgreSQL-blue"></a>  <img src="https://img.shields.io/badge/-SQLShell(psql)-black">
+<a href="https://dbeaver.io/"><img src="https://img.shields.io/badge/-DBeaver-yellow"></a>   <a href="https://www.postgresql.org/download/"><img src="https://img.shields.io/badge/-PostgreSql-lightgrey?logo=postgresql"></a>  <img src="https://img.shields.io/badge/-SQLShell(psql)-black">
 
 ▪️ DBeaver
 
