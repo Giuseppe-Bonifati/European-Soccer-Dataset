@@ -5,7 +5,7 @@
 
 ## Introduction
 
-We will be working with the soccer database from kaggle.: https://www.kaggle.com/hugomathien/soccer. 
+We will be working with the soccer database from kaggle : https://www.kaggle.com/hugomathien/soccer. 
 It contains data for soccer matches, players, and teams from several European countries from 2007/2008 to 2015/2016 (Some players are not available in year 2016).
 In the file query.sql there are all the queries to get informations from the db.
 
