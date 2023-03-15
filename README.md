@@ -1,4 +1,4 @@
-# European Soccer Dataset
+# European Soccer Dataset :soccer: :bar_chart:
 
 <a href="https://www.linkedin.com/in/giuseppe-bonifati-738640261/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
 
