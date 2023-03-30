@@ -1,6 +1,6 @@
 # European Soccer Dataset :soccer: :bar_chart:
 
-<a href="https://www.linkedin.com/in/giuseppe-bonifati-738640261/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
+<a href="https://twitter.com/giuseppewdev"> <img src = "https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fgiuseppewdev"> </a> <a href="https://dev.to/giuseppewdev"><img src="https://img.shields.io/badge/-DEV-black?logo=dev.to"></a>
 
 
 ## Introduction
